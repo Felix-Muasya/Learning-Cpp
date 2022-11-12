@@ -1,3 +1,4 @@
+// This is just rudimentary code, I'll add color, comments and improve the UI later
 #include<iostream>
 #include<conio.h>
 #include<dos.h>
