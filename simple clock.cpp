@@ -26,7 +26,7 @@ int main ()
     {
         system("cls");
         cout << h<< ":"<< m<< ":"<<s<<endl;
-        Sleep(1000);
+        Sleep(1000); //1 second of processing time
         s++;
         if (s>59) // checking whether the seconds being input are greater than 59
             {
