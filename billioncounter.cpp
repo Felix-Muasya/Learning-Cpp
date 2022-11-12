@@ -1,3 +1,4 @@
+// simply counting to 1B in c++
 # include <iostream>
 
 int main ()
